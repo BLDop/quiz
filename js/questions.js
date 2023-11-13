@@ -32,3 +32,49 @@ let questions = [
       "Oxigênio",
       "Alumínio"
     ]
+  },
+  {
+    numb: 4,
+    question: "Quem pintou a Mona Lisa?",
+    answer: "Leonardo da Vinci",
+    options: [
+      "Pablo Picasso",
+      "Vincent van Gogh",
+      "Leonardo da Vinci",
+      "Claude Monet"
+    ]
+  },
+  {
+    numb: 5,
+    question: "Qual é a maior cordilheira do mundo?",
+    answer: "Himalaias",
+    options: [
+      "Andes",
+      "Alpes",
+      "Himalaias",
+      "Montanhas Rochosas"
+    ]
+  },
+  {
+    numb: 6,
+    question: "Qual é o rio mais longo do mundo?",
+    answer: "Rio Amazonas",
+    options: [
+      "Rio Nilo",
+      "Rio Amazonas",
+      "Rio Yangtzé",
+      "Rio Mississippi"
+    ]
+  },
+  {
+    numb: 7,
+    question: "Quem é o autor de '1984'?",
+    answer: "George Orwell",
+    options: [
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "George Orwell",
+      "Philip K. Dick"
+    ]
+  },
+];
